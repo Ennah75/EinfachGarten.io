@@ -18,3 +18,5 @@ _Das sind erstmal Ideen. Vielleicht bleiben wir in den Kinderschuhen stecken, vi
 ## 3. Ausblick
 * Man kann sich für eine bestimmte Beetgröße einen Anbauplan generieren lassen.
 * Die App wird in weitere Sprachen übersetzt.
+
+<img src="https://user-images.githubusercontent.com/66418324/85867645-7d7ee880-b7c9-11ea-9403-3ac60d72226c.jpg" />
